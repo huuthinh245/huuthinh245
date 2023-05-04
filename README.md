@@ -1,5 +1,7 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huuthinh245&show_icons=true&theme=transparent)
+### Thịnh Phạm - React native Developer 👋
+- Open and friendly.
+- Love to learn new things, especially things related to Mobile stacks.
+- Enjoy working with React Native ❤.
 <!--
 **huuthinh245/huuthinh245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=huuthinh245&show_icons=true&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huuthinh245&theme=default)
